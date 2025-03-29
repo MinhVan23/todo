@@ -1,6 +1,8 @@
 # Todo
 a CLI todo app
 
+*Only linux compatible
+
 ## features
 
 ### commands
