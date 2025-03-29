@@ -1,12 +1,13 @@
 # Todo
 a CLI todo app
 
-## todo 
+## features
 
 ### commands
 
 - add: add a task
-- check: check off a task
+- complete: mark a task as completed
+- remove: remove a task
 - list: list tasks added
 - help: print help list
 
